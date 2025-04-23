@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hola chic@s 👋
 
+## Estoy prácticando con git, a ver si domino el tema
 <!--
 **Maria170114/Maria170114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
